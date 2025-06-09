@@ -1,0 +1,1 @@
+import{_ as t,v as n,y as r,x as a}from"./B5zrtots.js";const o={};function s(c,e){return a(),n("div",null,e[0]||(e[0]=[r("input",{type:"text",name:"",id:""},null,-1)]))}const l=t(o,[["render",s]]);export{l as default};
