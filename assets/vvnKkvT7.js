@@ -1,0 +1,1 @@
+import{_ as s,v as n,y as r,I as o,J as i,x as a,z as l}from"./Ba8Ki0iz.js";const c={};function d(p,e){return a(),n("div",null,[e[0]||(e[0]=r("input",{type:"text",name:"",id:""},null,-1)),(a(),n(o,null,i(100,t=>r("div",{key:t},l(t),1)),64))])}const _=s(c,[["render",d]]);export{_ as default};
