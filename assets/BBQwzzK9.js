@@ -1,0 +1,1 @@
+import{N as e,p as i,I as n}from"./Dv50Am8a.js";const s=e(async(t,d)=>{if(t.path==="/admin/admin"||t.path==="/other/edit"){const{isAuthenticated:a}=i();if(!a())return n("/admin/login")}});export{s as default};
